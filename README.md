@@ -1,16 +1,11 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514908/9251/cowboyhat-tip.gif?1643514908" width="30"/>
-  Howdy!
-</h1>
-
 <p>
   <strong>Samuel</strong> <br>
-  <em>Software Engineer | AI/ML | DevOps</em> <br>
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>United States
+  <em>Software Engineer | AI/ML | LLMOps | DevOps</em> <br>
 </p>
 <p>
   <a href="https://www.linkedin.com/in/samuel-kevetter"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://skevetter.github.io"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://cal.com/skevetter"><img src="https://img.shields.io/badge/Schedule_Meeting-📅-brightgreen?style=flat-square" /></a>
 </p>
 
 
@@ -18,9 +13,7 @@
 
 ### About Me
 
-I’m a software engineer with experience across the maritime, logistics, and tech sectors. My current focus is on artificial intelligence, machine learning, DevOps, and security engineering. I take pride in building scalable systems and ensuring they remain secure, efficient, and reliable.
-
-I’m always open to meaningful conversations and opportunities to collaborate. Feel free to connect if you’d like to discuss a project or share ideas.
+Technical leader delivering scalable AI/LLM applications, enterprise Kubernetes infrastructure, Rust applications, and 5G network solutions. I actively contribute to open source projects. If you want to connect, [📅 schedule a meeting](https://cal.com/skevetter).
 
 ---
 
